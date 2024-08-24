@@ -1,2 +1,3 @@
 # makingGit-repo
-I just created Amazon clone using Html and Css
+First repo of github <br>
+Author- Ahmad Sajjad
